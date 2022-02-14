@@ -1,6 +1,6 @@
 <h1>Olá, meu nome é Lucas! 😄✌</h1>
 
-- 👨‍💻 Sou desenvolvedor Web e atualmente trabalho com front end
+- 👨‍💻 Sou desenvolvedor Web front-end e atualmente trabalho com front end
 - 🧑 23 anos
 
 <div align="center">
