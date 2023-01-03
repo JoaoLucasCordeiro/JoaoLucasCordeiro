@@ -1,6 +1,6 @@
 <h1>Olá, meu nome é Lucas! 😄✌</h1>
 
-- 👨‍💻 Sou desenvolvedor Web e atualmente trabalho como front-end 
+- 👨‍💻 Olá! Tudo bem? Bem vindo ao meu perfil! Me chamo João Lucas, mas pode me chamar apenas de Lucas, sou estudantede de engenharia de software e desenvolvedor web front-end.
 
 <div align="center">
   <a href="https://github.com/JoaoLucasCordeiro">
