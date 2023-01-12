@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h1>Olá, meu nome é Lucas! 😄✌</h1>
+<h1>Olá, meu nome é Lucas! E eu sou um desenvolvedor Front-End 😄✌</h1>
 
 - 👨‍💻 Olá! Tudo bem? Bem vindo ao meu perfil! Me chamo João Lucas, mas pode me chamar apenas de Lucas, sou estudante de engenharia de software e desenvolvedor web front-end - JavaScript | React
 
