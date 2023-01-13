@@ -12,7 +12,7 @@
   
   
   
-<h3>Tecnologias que utilizo:</h3>
+<h3>Tecnologias e ferramentas:</h3>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
