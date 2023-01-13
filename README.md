@@ -7,7 +7,7 @@
 
    ##
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Cordeiro;I'm+24+years+old;I+from+Brasil,+PE;I+study+Software+Engineer+at+UPE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Cordeiro;eu+tenho+24+anos;Sou+brasileiro,+Pernambucano;Sou+estudante+de+engenharia+de+software;Bem+vindo!+:%29)](https://git.io/typing-svg)
   
   
   
