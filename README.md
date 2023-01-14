@@ -2,7 +2,7 @@
 
 <h1>Olá, meu nome é Lucas! E eu sou um desenvolvedor Front-End 😄✌</h1>
 
-### 👨‍💻 Olá! Tudo bem? Bem vindo ao meu perfil! Me chamo João Lucas, mas pode me chamar apenas de Lucas, sou estudante de engenharia de software e desenvolvedor web front-end - JavaScript | React
+### 👨‍💻 Olá! Tudo bem? Bem vindo(a) ao meu perfil! Me chamo João Lucas, mas pode me chamar apenas de Lucas. Sou estudante de engenharia de software e desenvolvedor web front-end - JavaScript | React
 
 
    ##
