@@ -2,7 +2,7 @@
 
 <h1>Olá, meu nome é Lucas! E eu sou um desenvolvedor Front-End 😄✌</h1>
 
-- 👨‍💻 Olá! Tudo bem? Bem vindo ao meu perfil! Me chamo João Lucas, mas pode me chamar apenas de Lucas, sou estudante de engenharia de software e desenvolvedor web front-end - JavaScript | React
+### 👨‍💻 Olá! Tudo bem? Bem vindo ao meu perfil! Me chamo João Lucas, mas pode me chamar apenas de Lucas, sou estudante de engenharia de software e desenvolvedor web front-end - JavaScript | React
 
 
    ##
@@ -15,12 +15,15 @@
 <h3>Tecnologias e ferramentas:</h3>
   
  <div style="display: inline_block"><br>
+   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Lucas-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Lucas-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
    <img align="center" alt="Lucas-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="center" alt="Lucas-bootstarp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+   <img align="center" alt="Lucas-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
   
   
