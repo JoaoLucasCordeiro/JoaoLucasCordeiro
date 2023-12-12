@@ -1,8 +1,29 @@
-
-
 <h1>Olá, meu nome é João Lucas! E eu sou um dev Front-End 👨‍💻</h1>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
 Olá! Tudo bem? Bem vindo(a) ao meu perfil! Me chamo João Lucas, mas pode me chamar apenas de Lucas. Sou estudante de engenharia de software e desenvolvedor web front-end com conhecimentos em: JavaScript | TypeScript | React | Next js
+</p>
+
+
+### Formas de contato
+<p align="left">
+     <a href="https://www.linkedin.com/in/joaolucascordeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joaolucascttprofissional@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
+### Experiência de trabalho
+
+**Desenvolvedor front-end estágio** \
+[**Inclusive Pet**](https://www.spacex.com/) • meio período \
+Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Next js`,\
+<br/>
+
+
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/JoaoLucasCordeiro/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 
 <table>
@@ -53,21 +74,7 @@ Olá! Tudo bem? Bem vindo(a) ao meu perfil! Me chamo João Lucas, mas pode me ch
     <img align="center" alt="Lucas-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img align="center" alt="Lucas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 
-    
-   
 </div>
   
-  
-  
- <h3>Formas de contato:</h3>
-  
-  
-  <div> 
-     <a href="https://www.linkedin.com/in/joaolucascordeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joaolucascttprofissional@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
- 
-</div>
 
   
