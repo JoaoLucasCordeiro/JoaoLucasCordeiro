@@ -23,9 +23,6 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Next js`,\
 
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/JoaoLucasCordeiro/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-
 <table>
   <tr>
     <td>
