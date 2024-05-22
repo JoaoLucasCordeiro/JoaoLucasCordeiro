@@ -16,7 +16,7 @@ Olá! Tudo bem? Bem vindo(a) ao meu perfil! Me chamo João Lucas, mas pode me ch
 ### Experiência de trabalho
 
 **Desenvolvedor front-end estágio** \
-[**Inclusive Pet**](https://www.spacex.com/) • meio período \
+[**Inclusive Pet**](https://conhecainclusivepet.vercel.app/) • meio período \
 Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Next js`,\
 <br/>
 
