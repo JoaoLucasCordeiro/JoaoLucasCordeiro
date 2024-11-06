@@ -13,7 +13,7 @@ Olá! Tudo bem? Bem vindo(a) ao meu perfil! Me chamo João Lucas, mas pode me ch
   <a href = "mailto:joaolucascttprofissional@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-### Experiência de trabalho
+### Experiências de trabalho
 
 **Desenvolvedor front-end estágio** \
 [**Inclusive Pet**](https://conhecainclusivepet.vercel.app/) • meio período \
@@ -22,6 +22,10 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Next js`,\
 **Desenvolvedor full-stack** \
 [**Projeto de iniciação científica**](https://github.com/JoaoLucasCordeiro) • integral \
 Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Postgresql`,\
+
+**Desenvolvedor web freelancer** \
+[**Projeto de iniciação científica**](https://github.com/JoaoLucasCordeiro) • integral \
+Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Postgresql`, `Java`,\
 <br/>
 
 
