@@ -17,15 +17,15 @@ Olá! Tudo bem? Bem vindo(a) ao meu perfil! Me chamo João Lucas, mas pode me ch
 
 **Desenvolvedor front-end estágio** \
 [**Inclusive Pet**](https://conhecainclusivepet.vercel.app/) • meio período \
-Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Next js`,\
+Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Next js`
 
 **Desenvolvedor full-stack** \
 [**Projeto de iniciação científica**](https://github.com/JoaoLucasCordeiro) • integral \
-Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Postgresql`,\
+Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Postgresql`
 
 **Desenvolvedor web freelancer** \
 [**Projeto de iniciação científica**](https://github.com/JoaoLucasCordeiro) • integral \
-Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Postgresql`, `Java`,\
+Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Postgresql`, `Java`
 <br/>
 
 
