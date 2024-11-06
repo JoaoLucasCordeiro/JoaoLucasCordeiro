@@ -23,8 +23,8 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Next js`
 [**Projeto de iniciação científica**](https://github.com/JoaoLucasCordeiro) • integral \
 Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Postgresql`
 
-**Desenvolvedor web freelancer** \
-[**Projeto de iniciação científica**](https://github.com/JoaoLucasCordeiro) • integral \
+**Desenvolvedor full-stack** \
+[**Freelancer**](https://github.com/JoaoLucasCordeiro) • integral \
 Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Postgresql`, `Java`
 <br/>
 
