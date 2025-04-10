@@ -37,7 +37,7 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Postgresql`, `Ja
 
 ### Stack
 
-![Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,java,spring,mongodb,postgres,mysql)
+![Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,next,nodejs,java,spring,mongodb,postgres,mysql)
 
 
 <br/>
