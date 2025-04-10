@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Olá! Tudo bem? Bem vindo(a) ao meu perfil! Me chamo João Lucas, mas pode me chamar apenas de Lucas. Sou estudante de engenharia de software e desenvolvedor web front-end com conhecimentos em: JavaScript | TypeScript | React | Next js
+Olá! Tudo bem? Bem vindo(a) ao meu perfil! Me chamo João Lucas, Sou estudante de engenharia de software pela Universidade de Pernambuco Campus Garanhuns e desenvolvedor web full-stack com conhecimentos em: JavaScript | TypeScript | React | Next js | Node Js | Java | Spring Boot
 </p>
 
 
