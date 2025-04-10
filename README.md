@@ -8,7 +8,7 @@
 >
 
 <p align="left"> 
-Olá! Tudo bem? Bem vindo(a) ao meu perfil. Me chamo João Lucas, Sou estudante de engenharia de software pela Universidade de Pernambuco Campus Garanhuns e desenvolvedor web full-stack com conhecimentos em: JavaScript | TypeScript | React | Next js | Node Js | Java | Spring Boot
+Olá! Tudo bem? Bem vindo(a) ao meu perfil. Me chamo João Lucas, Sou estudante de engenharia de software pela Universidade de Pernambuco Campus Garanhuns e desenvolvedor web full-stack com conhecimentos em: JavaScript | TypeScript | React | Angular | Next js | Node Js | Java | Spring Boot
 </p>
 
 
