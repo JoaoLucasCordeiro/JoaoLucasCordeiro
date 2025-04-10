@@ -1,6 +1,11 @@
 <h1>Olá, meu nome é João Lucas, bem vindo(a)! 👨‍💻</h1>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  alt="programador digitando" 
+  width="350px" 
+  align="right"
+  style="border-radius: 20px;"
+>
 
 <p align="left"> 
 Olá! Tudo bem? Bem vindo(a) ao meu perfil! Me chamo João Lucas, Sou estudante de engenharia de software pela Universidade de Pernambuco Campus Garanhuns e desenvolvedor web full-stack com conhecimentos em: JavaScript | TypeScript | React | Next js | Node Js | Java | Spring Boot
@@ -12,6 +17,8 @@ Olá! Tudo bem? Bem vindo(a) ao meu perfil! Me chamo João Lucas, Sou estudante 
      <a href="https://www.linkedin.com/in/joaolucascordeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaolucascttprofissional@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
+
+
 
 ### Experiências de trabalho
 
@@ -28,56 +35,44 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Postgresql`
 Linguagens & Tecnologias: `JavaScript`, `TypeScriot`, `React`, `Postgresql`, `Java`
 <br/>
 
+### Stack
+
+![Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,java,spring,mongodb,postgres,mysql)
+
 
 <br/>
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=JoaoLucasCordeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasCordeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoLucasCordeiro&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-bottom: 20px;">
+
+<!-- Estatísticas principais - Tema Tokyo Night -->
+<img src="https://github-readme-stats.vercel.app/api?username=JoaoLucasCordeiro&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=28&hide_title=false&card_width=450" alt="Estatísticas" />
+
+<br> <!-- Espaçamento -->
+
+<!-- Streak - Tema Tokyo Night -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoLucasCordeiro&theme=tokyonight&hide_border=true&card_width=450" alt="Sequência de commits" />
+
+<br> <!-- Espaçamento -->
+
+<!-- Top Languages - Tema Tokyo Night -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasCordeiro&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&card_width=450" alt="Linguagens mais usadas" />
+
+<br> <!-- Espaçamento -->
+
+<!-- Gráfico de Atividade - Tema Tokyo Night -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoLucasCordeiro&theme=tokyonight&hide_border=true&area=true&custom_title=Atividade%20nos%20últimos%2031%20dias&height=300" alt="Gráfico de atividade" width="100%"/>
+
+<br> <!-- Espaçamento -->
+
+<!-- Troféus - Tema Tokyo Night -->
+<img src="https://github-profile-trophy.vercel.app/?username=JoaoLucasCordeiro&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Troféus" />
+
+</div>
 <br />
 
 
 
-  
-  
-  
-<h3>Tecnologias, bibliotecas e frameworks:</h3>
-  
- <div style="display: inline_block"><br>
-   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="Lucas-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-   <img align="center" alt="Lucas-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Lucas-bootstarp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Lucas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 
-</div>
   
 
   
